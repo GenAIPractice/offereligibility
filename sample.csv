@@ -1,0 +1,3 @@
+CustomerName,SLA,RedemptionStatus,CompetingOffer
+Alice,"Yes, missing 30 days SLA",Redemption completed,"Yes, getting better offer from competative bank/s"
+Bob,"Yes, missing 30 days SLA",Redemption incomplete,No
